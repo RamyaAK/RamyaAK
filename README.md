@@ -24,10 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramyakulkarni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ramyakulkarni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ramyakulkarni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/ramyakulkarni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramyakulkarni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramyakulkarni" height="30" width="40" /></a>
 <a href="https://medium.com/@ramyak_66227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ramyak_66227" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mail2ramyaak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mail2ramyaak" height="30" width="40" /></a>
-<a href="/https://ramyakulkarni.wordpress.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://ramyakulkarni.wordpress.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mail2ramyaak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mail2ramyaak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
