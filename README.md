@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramya</h1>
-<h3 align="center">SDET | Artist | Blogger</h3>
+<h1 align="center">Hi 👋, I'm Ramya Kulkarni</h1>
+<h3 align="center">Software Tester| SDET | Artist | Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaak&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaak" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [CypressCodingPractice](https://github.com/RamyaAK/CypressCodingPractice)
 
-- 🌱 I’m currently learning **Cypress, Javascript**
+- 🌱 I’m currently learning **Cypress, Javascript, Java**
 
-- 📝 I regularly write articles on [https://medium.com/@ramyak_66227](https://medium.com/@ramyak_66227)
+- 📝 I regularly write articles on [https://ramyakulkarni.wordpress.com/](https://ramyakulkarni.wordpress.com/)
 
-- 💬 Ask me about **Java, Selenium, TestNG, Rest-Assured, Cypress, WebDriverIO, POSTMAN**
+- 💬 Ask me about **Java, Selenium, TestNG, Rest-Assured, JavaScript, Cypress, POSTMAN**
 
-- 📫 How to reach me **mail2ramyaak@gmail.com**
+- 📫 How to reach me **reachout2ramyaak@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ramyakulkarni](www.linkedin.com/in/ramyakulkarni)
 
