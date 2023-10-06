@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [CypressCodingPractice](https://github.com/RamyaAK/CypressCodingPractice)
 
-- 🌱 I’m currently learning **Cypress, Javascript, Java**
+- 🌱 I’m currently learning **TypeScript, Javascript, Java**
 
-- 📝 I regularly write articles on [https://ramyakulkarni.wordpress.com/](https://ramyakulkarni.wordpress.com/)
+- 📝 I often write articles on [https://ramyakulkarni.wordpress.com/](https://ramyakulkarni.wordpress.com/)
 
 - 💬 Ask me about **Java, Selenium, TestNG, Rest-Assured, JavaScript, Cypress, POSTMAN**
 
