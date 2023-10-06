@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaak" alt="ramyaak" /></a> </p>
 
-- 🔭 I’m currently working on [CypressCodingPractice](https://github.com/RamyaAK/CypressCodingPractice)
+- 🔭 I’m currently working on [basicTypeScript](https://github.com/RamyaAK/basicTypeScript)
 
 - 🌱 I’m currently learning **TypeScript, Javascript, Java**
 
 - 📝 I often write articles on [https://ramyakulkarni.wordpress.com/](https://ramyakulkarni.wordpress.com/)
 
-- 💬 Ask me about **Java, Selenium, TestNG, Rest-Assured, JavaScript, Cypress, POSTMAN**
+- 💬 Ask me about **Java, Selenium, TestNG, Rest-Assured, API Automation, JavaScript, Cypress, POSTMAN**
 
 - 📫 How to reach me **reachout2ramyaak@gmail.com**
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramyaak&show_icons=true&locale=en&layout=compact" alt="ramyaak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramyaak&show_icons=true&locale=en" alt="ramyaak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramyaak&rank_icon=github&locale=en" alt="ramyaak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyaak&" alt="ramyaak" /></p>
