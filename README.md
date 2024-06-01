@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [basicTypeScript](https://github.com/RamyaAK/basicTypeScript)
 
-- 🌱 I’m currently learning **TypeScript, Javascript, Java**
+- 🌱 I’m currently learning **Playwright with TypeScript, Javascript, Java**
 
 - 📝 I often write articles on [https://ramyakulkarni.wordpress.com/](https://ramyakulkarni.wordpress.com/)
 
